@@ -1,4 +1,4 @@
-## <p align="center"> Welcome to my Github! </p>
+## <p align="center"> Raphaël Mercié - EPITECH Toulouse 2026 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelMrci&theme=omni" />
